@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+inhibit_all_warnings!
+
+pod 'AFNetworking', '~> 3.0.4'
+pod 'MBProgressHUD', '~> 0.9.1'             #HUD
+pod 'MJRefresh', '~> 3.0.8'         #上下拉刷新
+pod 'EAIntroView', '~> 2.8.1'
+pod 'WBWebBrowser', '~> 1.0.0'
